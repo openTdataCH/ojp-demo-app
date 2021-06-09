@@ -1,0 +1,2623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siri:OJP xmlns:siri="http://www.siri.org.uk/siri"
+  xmlns:ojp="http://www.vdv.de/ojp" version="1.0">
+  <siri:OJPResponse>
+    <siri:ServiceDelivery>
+      <siri:ResponseTimestamp>2021-06-08T16:14:26Z</siri:ResponseTimestamp>
+      <siri:ProducerRef>OJPCH_Prod</siri:ProducerRef>
+      <siri:Status>true</siri:Status>
+      <ojp:OJPTripDelivery>
+        <siri:ResponseTimestamp>2021-06-08T16:14:25Z</siri:ResponseTimestamp>
+        <siri:Status>true</siri:Status>
+        <ojp:CalcTime>1543</ojp:CalcTime>
+        <ojp:TripResponseContext>
+          <ojp:Places>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8591107</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Zürich, Zentrum Witikon</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>128240:0:</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Zürich, Zentrum Witikon</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>8.58659</siri:Longitude>
+                <siri:Latitude>47.35832</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:TopographicPlace>
+                <ojp:TopographicPlaceCode>23026261:27</ojp:TopographicPlaceCode>
+                <ojp:TopographicPlaceName>
+                  <ojp:Text>Zürich</ojp:Text>
+                </ojp:TopographicPlaceName>
+              </ojp:TopographicPlace>
+              <ojp:LocationName>
+                <ojp:Text>Zürich</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>8.58659</siri:Longitude>
+                <siri:Latitude>47.35832</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8587348</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Zürich, Bahnhofplatz/HB</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>125020:0:</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Zürich, Bahnhofplatz/HB</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>8.53934</siri:Longitude>
+                <siri:Latitude>47.37724</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8503000</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Zürich HB</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>108276:0:16</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>8.54021</siri:Longitude>
+                <siri:Latitude>47.37818</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8502113</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Aarau</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>107772:0:4</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23001001:1</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Aarau</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>8.05128</siri:Longitude>
+                <siri:Latitude>47.39136</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:TopographicPlace>
+                <ojp:TopographicPlaceCode>23001001:1</ojp:TopographicPlaceCode>
+                <ojp:TopographicPlaceName>
+                  <ojp:Text>Aarau</ojp:Text>
+                </ojp:TopographicPlaceName>
+              </ojp:TopographicPlace>
+              <ojp:LocationName>
+                <ojp:Text>Aarau</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>8.05128</siri:Longitude>
+                <siri:Latitude>47.39136</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8500218</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Olten</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>106652:0:3AB</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23019581:1</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Olten</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>7.90770</siri:Longitude>
+                <siri:Latitude>47.35193</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:TopographicPlace>
+                <ojp:TopographicPlaceCode>23019581:1</ojp:TopographicPlaceCode>
+                <ojp:TopographicPlaceName>
+                  <ojp:Text>Olten</ojp:Text>
+                </ojp:TopographicPlaceName>
+              </ojp:TopographicPlace>
+              <ojp:LocationName>
+                <ojp:Text>Olten</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>7.90770</siri:Longitude>
+                <siri:Latitude>47.35193</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8507000</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Bern</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>111055:0:4</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23006351:1</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Bern</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>7.43913</siri:Longitude>
+                <siri:Latitude>46.94883</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:TopographicPlace>
+                <ojp:TopographicPlaceCode>23006351:1</ojp:TopographicPlaceCode>
+                <ojp:TopographicPlaceName>
+                  <ojp:Text>Bern</ojp:Text>
+                </ojp:TopographicPlaceName>
+              </ojp:TopographicPlace>
+              <ojp:LocationName>
+                <ojp:Text>Bern</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>7.43913</siri:Longitude>
+                <siri:Latitude>46.94883</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8507078</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Wabern bei Bern</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>111086:0:1</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23006355:21</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>7.44588</siri:Longitude>
+                <siri:Latitude>46.92866</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:TopographicPlace>
+                <ojp:TopographicPlaceCode>23006355:21</ojp:TopographicPlaceCode>
+                <ojp:TopographicPlaceName>
+                  <ojp:Text>Wabern (CH)</ojp:Text>
+                </ojp:TopographicPlaceName>
+              </ojp:TopographicPlace>
+              <ojp:LocationName>
+                <ojp:Text>Wabern (CH)</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>7.44588</siri:Longitude>
+                <siri:Latitude>46.92866</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8507097</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Wabern (Gurtenbahn)</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>111102:0:</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23006355:21</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>7.44603</siri:Longitude>
+                <siri:Latitude>46.92782</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8507099</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Gurten Kulm</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>111103:0:</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23006355:21</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Gurten Kulm</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>7.43975</siri:Longitude>
+                <siri:Latitude>46.91961</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+            <ojp:Location>
+              <ojp:StopPlace>
+                <ojp:StopPlaceRef>8591233</ojp:StopPlaceRef>
+                <ojp:StopPlaceName>
+                  <ojp:Text>Zürich, Klusplatz</ojp:Text>
+                </ojp:StopPlaceName>
+                <ojp:PrivateCode>
+                  <ojp:System>EFA</ojp:System>
+                  <ojp:Value>128357:0:</ojp:Value>
+                </ojp:PrivateCode>
+                <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+              </ojp:StopPlace>
+              <ojp:LocationName>
+                <ojp:Text xml:lang="de">Zürich, Klusplatz</ojp:Text>
+              </ojp:LocationName>
+              <ojp:GeoPosition>
+                <siri:Longitude>8.56650</siri:Longitude>
+                <siri:Latitude>47.36404</siri:Latitude>
+              </ojp:GeoPosition>
+            </ojp:Location>
+          </ojp:Places>
+        </ojp:TripResponseContext>
+        <ojp:TripResult>
+          <ojp:ResultId>ID-A54E06A4-171D-4DCB-9F1B-1BF309F04573</ojp:ResultId>
+          <ojp:Trip>
+            <ojp:TripId>ID-A54E06A4-171D-4DCB-9F1B-1BF309F04573</ojp:TripId>
+            <ojp:Duration>PT2H12M</ojp:Duration>
+            <ojp:StartTime>2021-06-08T16:08:00Z</ojp:StartTime>
+            <ojp:EndTime>2021-06-08T18:20:00Z</ojp:EndTime>
+            <ojp:Transfers>5</ojp:Transfers>
+            <ojp:Distance>124374</ojp:Distance>
+            <ojp:TripLeg>
+              <ojp:LegId>1</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8591107</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Zentrum Witikon</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T16:07:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:08:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8587348</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Bahnhofplatz/HB</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T16:27:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:27:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>15</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:92031::H:j21:83</ojp:JourneyRef>
+                  <siri:LineRef>ojp:92031:</siri:LineRef>
+                  <siri:DirectionRef>H</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>bus</ojp:PtMode>
+                    <siri:BusSubmode>localBusService</siri:BusSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Bus</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">B</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>31</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:849</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Niederflureinstieg</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__NF</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Zürich, Hermetschloo</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Bus</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">2941</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+
+            <ojp:TripLeg>
+              <ojp:LegId>2</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8587348</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich, Bahnhofplatz/HB</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8503000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T16:27:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T16:38:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT11M</ojp:Duration>
+                <ojp:WalkDuration>PT7M</ojp:WalkDuration>
+                <ojp:BufferTime>PT4M</ojp:BufferTime>
+                <ojp:PathGuidance>
+                  <ojp:PathGuidanceSection>
+                    <ojp:TrackSection>
+                      <ojp:TrackStart>
+                        <siri:StopPointRef>8587348</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Bahnhofplatz/HB</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackStart>
+                      <ojp:TrackEnd>
+                        <siri:StopPointRef>8503000</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackEnd>
+                    </ojp:TrackSection>
+                    <ojp:PathLink>
+                      <ojp:Transition>level</ojp:Transition>
+                      <ojp:AccessFeatureType>footpath</ojp:AccessFeatureType>
+                    </ojp:PathLink>
+                  </ojp:PathGuidanceSection>
+                </ojp:PathGuidance>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>3</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8503000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich HB</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">16</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T16:38:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:38:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8502113</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Aarau</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">4</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T17:05:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:05:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>3</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91REA:Z:R:j21:84</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91REA:Z</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">RE</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>RE</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:11</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Links</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91REAZR_InfoCall84_107772_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Aarau</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">RegioExpress</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">4832</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>4</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8502113</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Aarau</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8502113</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Aarau</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T17:05:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T17:14:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT9M</ojp:Duration>
+                <ojp:WalkDuration>PT4M</ojp:WalkDuration>
+                <ojp:BufferTime>PT5M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>5</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8502113</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Aarau</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">5</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T17:13:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:14:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8500218</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Olten</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">3AB</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:EstimatedQuay>
+                    <ojp:Text xml:lang="de">3</ojp:Text>
+                  </ojp:EstimatedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T17:24:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:24:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91REO:Z:R:j21:138</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91REO:Z</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">RE</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>RE</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:11</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91REOZR_InfoCall138_107772_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Olten</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">RegioExpress</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">4782</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>6</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8500218</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Olten</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8500218</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Olten</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T17:24:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T17:29:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT5M</ojp:Duration>
+                <ojp:WalkDuration>PT5M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>7</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8500218</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Olten</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">11</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T17:29:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:29:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">4</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T17:56:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:56:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91061::R:j21:269</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91061:</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>interRegionalRailService</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">IC</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>IC61</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:11</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Gratis-Internet mit der App SBB FreeSurf</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__FS</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Reservierung möglich</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A___R</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Restaurant</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__WR</ojp:Code>
+                    <siri:RefreshmentFacility>restaurantService</siri:RefreshmentFacility>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91061_R_InfoCall269_106652_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Links</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91061_R_InfoCall269_111055_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Interlaken Ost</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">InterCity</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">983</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>8</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T17:56:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T18:02:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT6M</ojp:Duration>
+                <ojp:WalkDuration>PT6M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>9</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">1A-D</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:EstimatedQuay>
+                    <ojp:Text xml:lang="de">1</ojp:Text>
+                  </ojp:EstimatedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T18:02:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:02:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507078</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Wabern bei Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">1</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:11:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:11:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>4</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91S03:R:R:j21:283</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91S03:R</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">S</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>S3</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:33</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91S03RR_InfoCall283_111055_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Belp</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">S-Bahn</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">15374</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>10</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8507078</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8507097</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T18:11:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T18:15:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT4M</ojp:Duration>
+                <ojp:WalkDuration>PT4M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+                <ojp:PathGuidance>
+                  <ojp:PathGuidanceSection>
+                    <ojp:TrackSection>
+                      <ojp:TrackStart>
+                        <siri:StopPointRef>8507078</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackStart>
+                      <ojp:TrackEnd>
+                        <siri:StopPointRef>8507097</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackEnd>
+                    </ojp:TrackSection>
+                    <ojp:PathLink>
+                      <ojp:Transition>level</ojp:Transition>
+                      <ojp:AccessFeatureType>footpath</ojp:AccessFeatureType>
+                    </ojp:PathLink>
+                  </ojp:PathGuidanceSection>
+                </ojp:PathGuidance>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>11</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8507097</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Wabern (Gurtenbahn)</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T18:15:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507099</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Gurten Kulm</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:20:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:9305O:Y:H:j21:1</ojp:JourneyRef>
+                  <siri:LineRef>ojp:9305O:Y</siri:LineRef>
+                  <siri:DirectionRef>H</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>telecabin</ojp:PtMode>
+                    <siri:TelecabinSubmode>telecabin</siri:TelecabinSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Standseilbahn</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">FUN</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>FUN</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:122</ojp:OperatorRef>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Gurten Kulm</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Standseilbahn</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">10</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+          </ojp:Trip>
+        </ojp:TripResult>
+        <ojp:TripResult>
+          <ojp:ResultId>ID-C280AC56-6D83-4257-BE8B-10FE33A68237</ojp:ResultId>
+          <ojp:Trip>
+            <ojp:TripId>ID-C280AC56-6D83-4257-BE8B-10FE33A68237</ojp:TripId>
+            <ojp:Duration>PT2H9M</ojp:Duration>
+            <ojp:StartTime>2021-06-08T16:11:00Z</ojp:StartTime>
+            <ojp:EndTime>2021-06-08T18:20:00Z</ojp:EndTime>
+            <ojp:Transfers>6</ojp:Transfers>
+            <ojp:Distance>134168</ojp:Distance>
+            <ojp:TripLeg>
+              <ojp:LegId>1</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8591107</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Zentrum Witikon</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T16:11:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:11:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8591233</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Klusplatz</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T16:15:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:15:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:92704:A:R:j21:278</ojp:JourneyRef>
+                  <siri:LineRef>ojp:92704:A</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>bus</ojp:PtMode>
+                    <siri:BusSubmode>localBusService</siri:BusSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Bus</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">B</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>704</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:849</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Niederflureinstieg</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__NF</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">unregelmässiger Betrieb</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp92704AR_InfoTrip278_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Zürich, Klusplatz</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Bus</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">8502</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>2</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8591233</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich, Klusplatz</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8591233</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich, Klusplatz</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T16:15:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T16:17:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT2M</ojp:Duration>
+                <ojp:WalkDuration>PT2M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>3</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8591233</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Klusplatz</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T16:17:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:17:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8587348</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Bahnhofplatz/HB</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T16:29:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:29:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>8</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91003::H:j21:17</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91003:</siri:LineRef>
+                  <siri:DirectionRef>H</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>tram</ojp:PtMode>
+                    <siri:TramSubmode>cityTram</siri:TramSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Tram</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">T</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>3</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:3849</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Zürich, Albisrieden</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Tram</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">2002</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>4</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8587348</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich, Bahnhofplatz/HB</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8503000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T16:29:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T16:38:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT9M</ojp:Duration>
+                <ojp:WalkDuration>PT7M</ojp:WalkDuration>
+                <ojp:BufferTime>PT2M</ojp:BufferTime>
+                <ojp:PathGuidance>
+                  <ojp:PathGuidanceSection>
+                    <ojp:TrackSection>
+                      <ojp:TrackStart>
+                        <siri:StopPointRef>8587348</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Bahnhofplatz/HB</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackStart>
+                      <ojp:TrackEnd>
+                        <siri:StopPointRef>8503000</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackEnd>
+                    </ojp:TrackSection>
+                    <ojp:PathLink>
+                      <ojp:Transition>level</ojp:Transition>
+                      <ojp:AccessFeatureType>footpath</ojp:AccessFeatureType>
+                    </ojp:PathLink>
+                  </ojp:PathGuidanceSection>
+                </ojp:PathGuidance>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>5</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8503000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich HB</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">16</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T16:38:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:38:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8502113</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Aarau</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">4</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T17:05:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:05:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>3</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91REA:Z:R:j21:84</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91REA:Z</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">RE</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>RE</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:11</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Links</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91REAZR_InfoCall84_107772_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Aarau</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">RegioExpress</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">4832</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>6</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8502113</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Aarau</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8502113</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Aarau</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T17:05:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T17:14:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT9M</ojp:Duration>
+                <ojp:WalkDuration>PT4M</ojp:WalkDuration>
+                <ojp:BufferTime>PT5M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>7</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8502113</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Aarau</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">5</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T17:13:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:14:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8500218</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Olten</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">3AB</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:EstimatedQuay>
+                    <ojp:Text xml:lang="de">3</ojp:Text>
+                  </ojp:EstimatedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T17:24:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:24:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91REO:Z:R:j21:138</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91REO:Z</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">RE</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>RE</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:11</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91REOZR_InfoCall138_107772_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Olten</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">RegioExpress</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">4782</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>8</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8500218</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Olten</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8500218</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Olten</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T17:24:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T17:29:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT5M</ojp:Duration>
+                <ojp:WalkDuration>PT5M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>9</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8500218</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Olten</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">11</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T17:29:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:29:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">4</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T17:56:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:56:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91061::R:j21:269</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91061:</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>interRegionalRailService</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">IC</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>IC61</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:11</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Gratis-Internet mit der App SBB FreeSurf</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__FS</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Reservierung möglich</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A___R</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Restaurant</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__WR</ojp:Code>
+                    <siri:RefreshmentFacility>restaurantService</siri:RefreshmentFacility>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91061_R_InfoCall269_106652_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Links</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91061_R_InfoCall269_111055_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Interlaken Ost</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">InterCity</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">983</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>10</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T17:56:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T18:02:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT6M</ojp:Duration>
+                <ojp:WalkDuration>PT6M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>11</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">1A-D</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:EstimatedQuay>
+                    <ojp:Text xml:lang="de">1</ojp:Text>
+                  </ojp:EstimatedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T18:02:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:02:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507078</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Wabern bei Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">1</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:11:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:11:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>4</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91S03:R:R:j21:283</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91S03:R</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">S</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>S3</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:33</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91S03RR_InfoCall283_111055_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Belp</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">S-Bahn</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">15374</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>12</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8507078</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8507097</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T18:11:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T18:15:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT4M</ojp:Duration>
+                <ojp:WalkDuration>PT4M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+                <ojp:PathGuidance>
+                  <ojp:PathGuidanceSection>
+                    <ojp:TrackSection>
+                      <ojp:TrackStart>
+                        <siri:StopPointRef>8507078</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackStart>
+                      <ojp:TrackEnd>
+                        <siri:StopPointRef>8507097</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackEnd>
+                    </ojp:TrackSection>
+                    <ojp:PathLink>
+                      <ojp:Transition>level</ojp:Transition>
+                      <ojp:AccessFeatureType>footpath</ojp:AccessFeatureType>
+                    </ojp:PathLink>
+                  </ojp:PathGuidanceSection>
+                </ojp:PathGuidance>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>13</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8507097</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Wabern (Gurtenbahn)</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T18:15:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507099</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Gurten Kulm</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:20:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:9305O:Y:H:j21:1</ojp:JourneyRef>
+                  <siri:LineRef>ojp:9305O:Y</siri:LineRef>
+                  <siri:DirectionRef>H</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>telecabin</ojp:PtMode>
+                    <siri:TelecabinSubmode>telecabin</siri:TelecabinSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Standseilbahn</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">FUN</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>FUN</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:122</ojp:OperatorRef>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Gurten Kulm</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Standseilbahn</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">10</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+          </ojp:Trip>
+        </ojp:TripResult>
+        <ojp:TripResult>
+          <ojp:ResultId>ID-277A35EE-34C0-41DB-9119-F2A12D9A47A9</ojp:ResultId>
+          <ojp:Trip>
+            <ojp:TripId>ID-277A35EE-34C0-41DB-9119-F2A12D9A47A9</ojp:TripId>
+            <ojp:Duration>PT1H57M</ojp:Duration>
+            <ojp:StartTime>2021-06-08T16:38:00Z</ojp:StartTime>
+            <ojp:EndTime>2021-06-08T18:35:00Z</ojp:EndTime>
+            <ojp:Transfers>3</ojp:Transfers>
+            <ojp:Distance>130865</ojp:Distance>
+            <ojp:TripLeg>
+              <ojp:LegId>1</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8591107</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Zentrum Witikon</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T16:38:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:38:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8587348</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Bahnhofplatz/HB</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T16:55:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:55:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>15</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:92031::H:j21:75</ojp:JourneyRef>
+                  <siri:LineRef>ojp:92031:</siri:LineRef>
+                  <siri:DirectionRef>H</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>bus</ojp:PtMode>
+                    <siri:BusSubmode>localBusService</siri:BusSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Bus</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">B</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>31</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:849</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Niederflureinstieg</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__NF</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Zürich, Hermetschloo</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Bus</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">2849</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>2</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8587348</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich, Bahnhofplatz/HB</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8503000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T16:55:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T17:02:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT7M</ojp:Duration>
+                <ojp:WalkDuration>PT7M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+                <ojp:PathGuidance>
+                  <ojp:PathGuidanceSection>
+                    <ojp:TrackSection>
+                      <ojp:TrackStart>
+                        <siri:StopPointRef>8587348</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Bahnhofplatz/HB</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackStart>
+                      <ojp:TrackEnd>
+                        <siri:StopPointRef>8503000</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackEnd>
+                    </ojp:TrackSection>
+                    <ojp:PathLink>
+                      <ojp:Transition>level</ojp:Transition>
+                      <ojp:AccessFeatureType>footpath</ojp:AccessFeatureType>
+                    </ojp:PathLink>
+                  </ojp:PathGuidanceSection>
+                </ojp:PathGuidance>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>3</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8503000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich HB</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">31</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T17:02:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:02:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">5</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T17:58:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:58:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91008:E:R:j21:285</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91008:E</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>interRegionalRailService</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">IC</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>IC8</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:11</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Reservierung möglich</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A___R</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Businesszone in 1. Klasse</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__BZ</ojp:Code>
+                    <siri:FareClassFacility>firstClass</siri:FareClassFacility>
+                    <siri:PassengerCommsFacility>businessServices</siri:PassengerCommsFacility>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Familienwagen mit Spielplatz</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__FA</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Ruhezone in 1. Klasse</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__RZ</ojp:Code>
+                    <siri:NuisanceFacility>mobilePhoneFreeZone</siri:NuisanceFacility>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Gratis-Internet mit der App SBB FreeSurf</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__FS</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Restaurant</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__WR</ojp:Code>
+                    <siri:RefreshmentFacility>restaurantService</siri:RefreshmentFacility>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91008ER_InfoCall285_108276_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Brig</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">InterCity</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">830</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>4</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T17:58:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T18:17:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT19M</ojp:Duration>
+                <ojp:WalkDuration>PT6M</ojp:WalkDuration>
+                <ojp:BufferTime>PT13M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>5</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">6</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T18:17:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:17:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507078</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Wabern bei Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">1</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:26:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:26:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>4</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91A00:F:R:j21:245</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91A00:F</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">S</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>S31</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:33</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Links</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91A00FR_InfoCall245_111055_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91A00FR_InfoCall245_111086_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Belp</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">S-Bahn</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">16374</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>6</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8507078</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8507097</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T18:26:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T18:30:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT4M</ojp:Duration>
+                <ojp:WalkDuration>PT4M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+                <ojp:PathGuidance>
+                  <ojp:PathGuidanceSection>
+                    <ojp:TrackSection>
+                      <ojp:TrackStart>
+                        <siri:StopPointRef>8507078</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackStart>
+                      <ojp:TrackEnd>
+                        <siri:StopPointRef>8507097</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackEnd>
+                    </ojp:TrackSection>
+                    <ojp:PathLink>
+                      <ojp:Transition>level</ojp:Transition>
+                      <ojp:AccessFeatureType>footpath</ojp:AccessFeatureType>
+                    </ojp:PathLink>
+                  </ojp:PathGuidanceSection>
+                </ojp:PathGuidance>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>7</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8507097</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Wabern (Gurtenbahn)</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T18:30:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507099</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Gurten Kulm</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:35:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:9305O:Y:H:j21:2</ojp:JourneyRef>
+                  <siri:LineRef>ojp:9305O:Y</siri:LineRef>
+                  <siri:DirectionRef>H</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>telecabin</ojp:PtMode>
+                    <siri:TelecabinSubmode>telecabin</siri:TelecabinSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Standseilbahn</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">FUN</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>FUN</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:122</ojp:OperatorRef>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Gurten Kulm</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Standseilbahn</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">10</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+          </ojp:Trip>
+        </ojp:TripResult>
+        <ojp:TripResult>
+          <ojp:ResultId>ID-9FC006D0-5883-416B-8B62-02DE53689BA8</ojp:ResultId>
+          <ojp:Trip>
+            <ojp:TripId>ID-9FC006D0-5883-416B-8B62-02DE53689BA8</ojp:TripId>
+            <ojp:Duration>PT2H9M</ojp:Duration>
+            <ojp:StartTime>2021-06-08T16:41:00Z</ojp:StartTime>
+            <ojp:EndTime>2021-06-08T18:50:00Z</ojp:EndTime>
+            <ojp:Transfers>4</ojp:Transfers>
+            <ojp:Distance>143436</ojp:Distance>
+            <ojp:TripLeg>
+              <ojp:LegId>1</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8591107</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Zentrum Witikon</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T16:41:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:41:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8591233</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Klusplatz</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T16:45:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T16:45:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:92704:A:R:j21:276</ojp:JourneyRef>
+                  <siri:LineRef>ojp:92704:A</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>bus</ojp:PtMode>
+                    <siri:BusSubmode>localBusService</siri:BusSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Bus</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">B</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>704</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:849</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Niederflureinstieg</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__NF</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">unregelmässiger Betrieb</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp92704AR_InfoTrip276_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Zürich, Klusplatz</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Bus</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">8405</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>2</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8591233</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich, Klusplatz</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8591233</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich, Klusplatz</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T16:45:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T16:48:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT3M</ojp:Duration>
+                <ojp:WalkDuration>PT2M</ojp:WalkDuration>
+                <ojp:BufferTime>PT1M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>3</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8591233</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Klusplatz</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T16:48:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8587348</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich, Bahnhofplatz/HB</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T16:59:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>8</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91003::H:j21:15</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91003:</siri:LineRef>
+                  <siri:DirectionRef>H</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>tram</ojp:PtMode>
+                    <siri:TramSubmode>cityTram</siri:TramSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Tram</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">T</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>3</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:3849</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Zürich, Albisrieden</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Tram</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">1940</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>4</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8587348</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich, Bahnhofplatz/HB</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8503000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T16:59:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T17:06:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT7M</ojp:Duration>
+                <ojp:WalkDuration>PT7M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+                <ojp:PathGuidance>
+                  <ojp:PathGuidanceSection>
+                    <ojp:TrackSection>
+                      <ojp:TrackStart>
+                        <siri:StopPointRef>8587348</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Bahnhofplatz/HB</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackStart>
+                      <ojp:TrackEnd>
+                        <siri:StopPointRef>8503000</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Zürich HB</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackEnd>
+                    </ojp:TrackSection>
+                    <ojp:PathLink>
+                      <ojp:Transition>level</ojp:Transition>
+                      <ojp:AccessFeatureType>footpath</ojp:AccessFeatureType>
+                    </ojp:PathLink>
+                  </ojp:PathGuidanceSection>
+                </ojp:PathGuidance>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>5</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8503000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Zürich HB</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">12</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T17:06:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T17:06:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">9</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:24:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:24:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>6</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91016:A:R:j21:317</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91016:A</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">IR</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>IR16</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:11</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Gratis-Internet mit der App SBB FreeSurf</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__FS</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91016AR_InfoCall317_111055_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">InterRegio</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">2184</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>6</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T18:24:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T18:32:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT8M</ojp:Duration>
+                <ojp:WalkDuration>PT6M</ojp:WalkDuration>
+                <ojp:BufferTime>PT2M</ojp:BufferTime>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>7</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8507000</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">1A-D</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:EstimatedQuay>
+                    <ojp:Text xml:lang="de">1</ojp:Text>
+                  </ojp:EstimatedQuay>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T18:32:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:32:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507078</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Wabern bei Bern</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:PlannedQuay>
+                    <ojp:Text xml:lang="de">1</ojp:Text>
+                  </ojp:PlannedQuay>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:41:00Z</ojp:TimetabledTime>
+                    <ojp:EstimatedTime>2021-06-08T18:41:00Z</ojp:EstimatedTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>4</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:91S03:R:R:j21:287</ojp:JourneyRef>
+                  <siri:LineRef>ojp:91S03:R</siri:LineRef>
+                  <siri:DirectionRef>R</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>rail</ojp:PtMode>
+                    <siri:RailSubmode>regionalRail</siri:RailSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Zug</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">S</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>S3</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:33</ojp:OperatorRef>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Maskenpflicht für Reisende ab 12 Jahren</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>A__OM</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:Attribute>
+                    <ojp:Text>
+                      <ojp:Text xml:lang="de">Aussteigeseite: Rechts</ojp:Text>
+                    </ojp:Text>
+                    <ojp:Code>ojp91S03RR_InfoCall287_111055_1</ojp:Code>
+                  </ojp:Attribute>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Belp</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">S-Bahn</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">15376</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>8</ojp:LegId>
+              <ojp:TransferLeg>
+                <ojp:TransferMode>walk</ojp:TransferMode>
+                <ojp:LegStart>
+                  <siri:StopPointRef>8507078</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegStart>
+                <ojp:LegEnd>
+                  <siri:StopPointRef>8507097</siri:StopPointRef>
+                  <ojp:LocationName>
+                    <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+                  </ojp:LocationName>
+                </ojp:LegEnd>
+                <ojp:TimeWindowStart>2021-06-08T18:41:00Z</ojp:TimeWindowStart>
+                <ojp:TimeWindowEnd>2021-06-08T18:45:00Z</ojp:TimeWindowEnd>
+                <ojp:Duration>PT4M</ojp:Duration>
+                <ojp:WalkDuration>PT4M</ojp:WalkDuration>
+                <ojp:BufferTime>PT0M</ojp:BufferTime>
+                <ojp:PathGuidance>
+                  <ojp:PathGuidanceSection>
+                    <ojp:TrackSection>
+                      <ojp:TrackStart>
+                        <siri:StopPointRef>8507078</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Wabern bei Bern</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackStart>
+                      <ojp:TrackEnd>
+                        <siri:StopPointRef>8507097</siri:StopPointRef>
+                        <ojp:LocationName>
+                          <ojp:Text xml:lang="de">Wabern (Gurtenbahn)</ojp:Text>
+                        </ojp:LocationName>
+                      </ojp:TrackEnd>
+                    </ojp:TrackSection>
+                    <ojp:PathLink>
+                      <ojp:Transition>level</ojp:Transition>
+                      <ojp:AccessFeatureType>footpath</ojp:AccessFeatureType>
+                    </ojp:PathLink>
+                  </ojp:PathGuidanceSection>
+                </ojp:PathGuidance>
+              </ojp:TransferLeg>
+            </ojp:TripLeg>
+            <ojp:TripLeg>
+              <ojp:LegId>9</ojp:LegId>
+              <ojp:TimedLeg>
+                <ojp:LegBoard>
+                  <siri:StopPointRef>8507097</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Wabern (Gurtenbahn)</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceDeparture>
+                    <ojp:TimetabledTime>2021-06-08T18:45:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceDeparture>
+                  <ojp:Order>1</ojp:Order>
+                </ojp:LegBoard>
+                <ojp:LegAlight>
+                  <siri:StopPointRef>8507099</siri:StopPointRef>
+                  <ojp:StopPointName>
+                    <ojp:Text>Gurten Kulm</ojp:Text>
+                  </ojp:StopPointName>
+                  <ojp:ServiceArrival>
+                    <ojp:TimetabledTime>2021-06-08T18:50:00Z</ojp:TimetabledTime>
+                  </ojp:ServiceArrival>
+                  <ojp:Order>2</ojp:Order>
+                </ojp:LegAlight>
+                <ojp:Service>
+                  <ojp:OperatingDayRef>2021-06-08</ojp:OperatingDayRef>
+                  <ojp:JourneyRef>ojp:9305O:Y:H:j21:3</ojp:JourneyRef>
+                  <siri:LineRef>ojp:9305O:Y</siri:LineRef>
+                  <siri:DirectionRef>H</siri:DirectionRef>
+                  <ojp:Mode>
+                    <ojp:PtMode>telecabin</ojp:PtMode>
+                    <siri:TelecabinSubmode>telecabin</siri:TelecabinSubmode>
+                    <ojp:Name>
+                      <ojp:Text xml:lang="de">Standseilbahn</ojp:Text>
+                    </ojp:Name>
+                    <ojp:ShortName>
+                      <ojp:Text xml:lang="de">FUN</ojp:Text>
+                    </ojp:ShortName>
+                  </ojp:Mode>
+                  <ojp:PublishedLineName>
+                    <ojp:Text>FUN</ojp:Text>
+                  </ojp:PublishedLineName>
+                  <ojp:OperatorRef>ojp:122</ojp:OperatorRef>
+                  <ojp:DestinationStopPointRef>de:00000:-1</ojp:DestinationStopPointRef>
+                  <ojp:DestinationText>
+                    <ojp:Text xml:lang="de">Gurten Kulm</ojp:Text>
+                  </ojp:DestinationText>
+                </ojp:Service>
+                <ojp:Extension>
+                  <ojp:TransportTypeName>
+                    <ojp:Text xml:lang="de">Standseilbahn</ojp:Text>
+                  </ojp:TransportTypeName>
+                  <ojp:PublishedJourneyNumber>
+                    <ojp:Text xml:lang="de">10</ojp:Text>
+                  </ojp:PublishedJourneyNumber>
+                </ojp:Extension>
+              </ojp:TimedLeg>
+            </ojp:TripLeg>
+          </ojp:Trip>
+        </ojp:TripResult>
+      </ojp:OJPTripDelivery>
+    </siri:ServiceDelivery>
+  </siri:OJPResponse>
+</siri:OJP>
