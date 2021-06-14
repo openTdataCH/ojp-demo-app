@@ -24,11 +24,26 @@
     <div class="row bg-ojp-blue text-white">
       <div class="bg-ojp-orange w-100" style="height: 5px"></div>
       <div class="col">
-        <div class="p-3">© Open-Data-Plattform Mobilität Schweiz 2021<br/><span class="last-update">Last Update: 13.June 2021</span></div>
+        <div class="p-3">© Open-Data-Plattform Mobilität Schweiz 2021<br/><span class="last-update">Last Update: 14.June 2021</span></div>
       </div>
     </div>
   </div>
   <div class="d-none">
+    <div id="map-debug-control">
+      <div>
+        <span class="fw-bold">Center</span>: <span id="map_debug_center">n/a</span>
+      </div>
+      <div>
+        <span class="fw-bold">Zoom</span>: <span id="map_debug_zoom">n/a</span>
+      </div>
+    </div>
+    <div id="map-layers-legend-control">
+      <div>
+        <input type="checkbox" class="map-layer-checkbox align-middle" data-map-layer-key="stops" checked=""> stop
+        <input type="checkbox" class="map-layer-checkbox align-middle" data-map-layer-key="address"> address
+        <input type="checkbox" class="map-layer-checkbox align-middle" data-map-layer-key="poi"> poi
+      </div>
+    </div>
     <div id="map-endpoint-coords-picker-popup">
       <div class="popup-picker p-2">
         <div class="popup-picker-header mb-2">
@@ -49,6 +64,18 @@
         </div>
       </div>
     </div>
+    <div id="map-endpoint-picker-popup">
+      <div class="popup-picker p-2">
+        <div class="popup-picker-header mb-2">
+          TYPE: [GEO_RESTRICTION_TYPE]
+        </div>
+        <div class="popup-picker-body">
+          [GEOJSON_PROPERTIES_TABLE]
+
+          <button type="button" class="btn btn-primary btn-sm" data-endpoint-type="From">From</button> <button type="button" class="btn btn-primary btn-sm" data-endpoint-type="To">To</button></button>
+        </div>
+      </div>
+    </div>
   </div>
-<script src="runtime.7b63b9fd40098a2e8207.js" defer></script><script src="polyfills.36a3ce7e7f5e65483411.js" defer></script><script src="main.291843202d54d0d06d78.js" defer></script></body>
+<script src="runtime.7b63b9fd40098a2e8207.js" defer></script><script src="polyfills.36a3ce7e7f5e65483411.js" defer></script><script src="main.44b3054f3e42fd912589.js" defer></script></body>
 </html>
