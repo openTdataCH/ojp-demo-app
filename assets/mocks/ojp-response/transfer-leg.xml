@@ -1,0 +1,23 @@
+<ojp:TripLeg>
+    <ojp:LegId>3</ojp:LegId>
+    <ojp:TransferLeg>
+        <ojp:TransferMode>walk</ojp:TransferMode>
+        <ojp:LegStart>
+            <siri:StopPointRef>8588988</siri:StopPointRef>
+            <ojp:LocationName>
+                <ojp:Text xml:lang="de">Bern, Aegertenstrasse</ojp:Text>
+            </ojp:LocationName>
+        </ojp:LegStart>
+        <ojp:LegEnd>
+            <siri:StopPointRef>8588988</siri:StopPointRef>
+            <ojp:LocationName>
+                <ojp:Text xml:lang="de">Bern, Aegertenstrasse</ojp:Text>
+            </ojp:LocationName>
+        </ojp:LegEnd>
+        <ojp:TimeWindowStart>2021-07-19T15:20:00Z</ojp:TimeWindowStart>
+        <ojp:TimeWindowEnd>2021-07-19T15:22:00Z</ojp:TimeWindowEnd>
+        <ojp:Duration>PT2M</ojp:Duration>
+        <ojp:WalkDuration>PT2M</ojp:WalkDuration>
+        <ojp:BufferTime>PT0M</ojp:BufferTime>
+    </ojp:TransferLeg>
+</ojp:TripLeg>
