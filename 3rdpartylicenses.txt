@@ -337,6 +337,9 @@ THE SOFTWARE.
 mapbox-gl
 SEE LICENSE IN LICENSE.txt
 
+ojp-sdk
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
