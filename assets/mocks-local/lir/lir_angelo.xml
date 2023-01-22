@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siri:OJP xmlns:siri="http://www.siri.org.uk/siri" xmlns:ojp="http://www.vdv.de/ojp" version="1.0">
+    <siri:OJPResponse>
+        <siri:ServiceDelivery>
+            <siri:ResponseTimestamp>2023-01-18T13:32:35Z</siri:ResponseTimestamp>
+            <siri:ProducerRef>EFAController10.5.19.12-OJP-EFA01-P</siri:ProducerRef>
+            <siri:Status>true</siri:Status>
+            <ojp:OJPLocationInformationDelivery>
+                <siri:ResponseTimestamp>2023-01-18T13:32:35Z</siri:ResponseTimestamp>
+                <siri:Status>true</siri:Status>
+                <ojp:CalcTime>113</ojp:CalcTime>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:PointOfInterest>
+                            <ojp:PointOfInterestCode>
+                                poiID:62245:23006351:-1:Angelo:Bern:Angelo:ANY:POI:829076:6064260:MRCV:sbb</ojp:PointOfInterestCode>
+                            <ojp:PointOfInterestName>
+                                <ojp:Text xml:lang="de">Angelo</ojp:Text>
+                            </ojp:PointOfInterestName>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_0</ojp:Tag>
+                                    <ojp:Value>service</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_1</ojp:Tag>
+                                    <ojp:Value>hairdresser</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:TopographicPlaceRef>23006351:-1</ojp:TopographicPlaceRef>
+                        </ojp:PointOfInterest>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Angelo (Bern)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>7.44772</siri:Longitude>
+                            <siri:Latitude>46.96118</siri:Latitude>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>1</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:PointOfInterest>
+                            <ojp:PointOfInterestCode>
+                                poiID:73332:23008196:-1:Angéloz:Fribourg:Angéloz:ANY:POI:796358:6089809:MRCV:sbb</ojp:PointOfInterestCode>
+                            <ojp:PointOfInterestName>
+                                <ojp:Text xml:lang="de">Angéloz</ojp:Text>
+                            </ojp:PointOfInterestName>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_0</ojp:Tag>
+                                    <ojp:Value>shopping</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:TopographicPlaceRef>23008196:-1</ojp:TopographicPlaceRef>
+                        </ojp:PointOfInterest>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Angéloz (Fribourg)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>7.15381</siri:Longitude>
+                            <siri:Latitude>46.80431</siri:Latitude>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.99000001</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:PointOfInterest>
+                            <ojp:PointOfInterestCode>poiID:73686:23023586:-1:Angéloz
+                                mode:Lausanne:Angéloz mode:ANY:POI:738126:6135637:MRCV:sbb</ojp:PointOfInterestCode>
+                            <ojp:PointOfInterestName>
+                                <ojp:Text xml:lang="de">Angéloz mode</ojp:Text>
+                            </ojp:PointOfInterestName>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_0</ojp:Tag>
+                                    <ojp:Value>shopping</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:TopographicPlaceRef>23023586:-1</ojp:TopographicPlaceRef>
+                        </ojp:PointOfInterest>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Angéloz mode (Lausanne)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>6.63070</siri:Longitude>
+                            <siri:Latitude>46.52178</siri:Latitude>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.953000009</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:PointOfInterest>
+                            <ojp:PointOfInterestCode>poiID:80515:23019517:-1:Mobili
+                                Angelo:Derendingen:Mobili Angelo:ANY:POI:843941:6025116:MRCV:sbb</ojp:PointOfInterestCode>
+                            <ojp:PointOfInterestName>
+                                <ojp:Text xml:lang="de">Mobili Angelo</ojp:Text>
+                            </ojp:PointOfInterestName>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_0</ojp:Tag>
+                                    <ojp:Value>shopping</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:TopographicPlaceRef>23019517:-1</ojp:TopographicPlaceRef>
+                        </ojp:PointOfInterest>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Mobili Angelo (Derendingen)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>7.58125</siri:Longitude>
+                            <siri:Latitude>47.20063</siri:Latitude>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.949999988</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:PointOfInterest>
+                            <ojp:PointOfInterestCode>poiID:16738:23011851:-1:Bistro
+                                Angelo:Davos:Bistro Angelo:ANY:POI:1094905:6089983:MRCV:sbb</ojp:PointOfInterestCode>
+                            <ojp:PointOfInterestName>
+                                <ojp:Text xml:lang="de">Bistro Angelo</ojp:Text>
+                            </ojp:PointOfInterestName>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_0</ojp:Tag>
+                                    <ojp:Value>catering</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_1</ojp:Tag>
+                                    <ojp:Value>restaurant</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:TopographicPlaceRef>23011851:-1</ojp:TopographicPlaceRef>
+                        </ojp:PointOfInterest>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Bistro Angelo (Davos)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>9.83570</siri:Longitude>
+                            <siri:Latitude>46.80324</siri:Latitude>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.949999988</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:PointOfInterest>
+                            <ojp:PointOfInterestCode>poiID:56653:23023586:-1:Angelo
+                                Mariano:Lausanne:Angelo Mariano:ANY:POI:740021:6133884:MRCV:sbb</ojp:PointOfInterestCode>
+                            <ojp:PointOfInterestName>
+                                <ojp:Text xml:lang="de">Angelo Mariano</ojp:Text>
+                            </ojp:PointOfInterestName>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_0</ojp:Tag>
+                                    <ojp:Value>service</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_1</ojp:Tag>
+                                    <ojp:Value>car_repair</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:TopographicPlaceRef>23023586:-1</ojp:TopographicPlaceRef>
+                        </ojp:PointOfInterest>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Angelo Mariano (Lausanne)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>6.64772</siri:Longitude>
+                            <siri:Latitude>46.53262</siri:Latitude>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.948000014</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:Address>
+                            <ojp:AddressCode>streetID:1500000005::23023726:-1</ojp:AddressCode>
+                            <ojp:AddressName>
+                                <ojp:Text xml:lang="de">La Rippe, Route d'Angelot</ojp:Text>
+                            </ojp:AddressName>
+                            <ojp:TopographicPlaceName>La Rippe</ojp:TopographicPlaceName>
+                            <ojp:TopographicPlaceRef>23023726:-1</ojp:TopographicPlaceRef>
+                            <ojp:Street>Route d'Angelot</ojp:Street>
+                        </ojp:Address>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Route d'Angelot (La Rippe)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>0.0</siri:Longitude>
+                            <siri:Latitude>0.0</siri:Latitude>
+                            <siri:Precision>20000000</siri:Precision>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.940999985</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:Address>
+                            <ojp:AddressCode>streetID:1500000006::23020113:-1</ojp:AddressCode>
+                            <ojp:AddressName>
+                                <ojp:Text xml:lang="de">Locarno, Via Angelo Nessi</ojp:Text>
+                            </ojp:AddressName>
+                            <ojp:TopographicPlaceName>Locarno</ojp:TopographicPlaceName>
+                            <ojp:TopographicPlaceRef>23020113:-1</ojp:TopographicPlaceRef>
+                            <ojp:Street>Via Angelo Nessi</ojp:Street>
+                        </ojp:Address>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Via Angelo Nessi (Locarno)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>0.0</siri:Longitude>
+                            <siri:Latitude>0.0</siri:Latitude>
+                            <siri:Precision>20000000</siri:Precision>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.939999998</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:PointOfInterest>
+                            <ojp:PointOfInterestCode>poiID:3053:23020113:-1:Hotel
+                                Dell'Angelo:Locarno:Hotel
+                                Dell'Angelo:ANY:POI:978984:6192585:MRCV:sbb</ojp:PointOfInterestCode>
+                            <ojp:PointOfInterestName>
+                                <ojp:Text xml:lang="de">Hotel Dell'Angelo</ojp:Text>
+                            </ojp:PointOfInterestName>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_0</ojp:Tag>
+                                    <ojp:Value>accommodation</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_1</ojp:Tag>
+                                    <ojp:Value>hotel</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:TopographicPlaceRef>23020113:-1</ojp:TopographicPlaceRef>
+                        </ojp:PointOfInterest>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Hotel Dell'Angelo (Locarno)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>8.79436</siri:Longitude>
+                            <siri:Latitude>46.16864</siri:Latitude>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.938000023</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:PointOfInterest>
+                            <ojp:PointOfInterestCode>poiID:28485:23026261:-1:Taverne da
+                                Angelo:Zürich:Taverne da Angelo:ANY:POI:947860:5996310:MRCV:sbb</ojp:PointOfInterestCode>
+                            <ojp:PointOfInterestName>
+                                <ojp:Text xml:lang="de">Taverne da Angelo</ojp:Text>
+                            </ojp:PointOfInterestName>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_0</ojp:Tag>
+                                    <ojp:Value>catering</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:PointOfInterestCategory>
+                                <ojp:OsmTag>
+                                    <ojp:Tag>POI_1</ojp:Tag>
+                                    <ojp:Value>restaurant</ojp:Value>
+                                </ojp:OsmTag>
+                            </ojp:PointOfInterestCategory>
+                            <ojp:TopographicPlaceRef>23026261:-1</ojp:TopographicPlaceRef>
+                        </ojp:PointOfInterest>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Taverne da Angelo (Zürich)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>8.51477</siri:Longitude>
+                            <siri:Latitude>47.37616</siri:Latitude>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.938000023</ojp:Probability>
+                </ojp:Location>
+                <ojp:Location>
+                    <ojp:Location>
+                        <ojp:Address>
+                            <ojp:AddressCode>streetID:1500000209::23020254:-1</ojp:AddressCode>
+                            <ojp:AddressName>
+                                <ojp:Text xml:lang="de">Mendrisio, Via Angelo Maspoli</ojp:Text>
+                            </ojp:AddressName>
+                            <ojp:TopographicPlaceName>Mendrisio</ojp:TopographicPlaceName>
+                            <ojp:TopographicPlaceRef>23020254:-1</ojp:TopographicPlaceRef>
+                            <ojp:Street>Via Angelo Maspoli</ojp:Street>
+                        </ojp:Address>
+                        <ojp:LocationName>
+                            <ojp:Text xml:lang="de">Via Angelo Maspoli (Mendrisio)</ojp:Text>
+                        </ojp:LocationName>
+                        <ojp:GeoPosition>
+                            <siri:Longitude>0.0</siri:Longitude>
+                            <siri:Latitude>0.0</siri:Latitude>
+                            <siri:Precision>20000000</siri:Precision>
+                        </ojp:GeoPosition>
+                    </ojp:Location>
+                    <ojp:Complete>true</ojp:Complete>
+                    <ojp:Probability>0.93599999</ojp:Probability>
+                </ojp:Location>
+            </ojp:OJPLocationInformationDelivery>
+        </siri:ServiceDelivery>
+    </siri:OJPResponse>
+</siri:OJP>
