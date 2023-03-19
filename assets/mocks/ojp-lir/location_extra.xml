@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siri:OJP xmlns:siri="http://www.siri.org.uk/siri" xmlns:ojp="http://www.vdv.de/ojp" version="1.0">
+  <siri:OJPResponse>
+    <siri:ServiceDelivery>
+      <siri:ResponseTimestamp>2023-03-12T12:20:17Z</siri:ResponseTimestamp>
+      <siri:ProducerRef>EFAController10.5.20.49-OJP-EFA01-P</siri:ProducerRef>
+      <siri:Status>true</siri:Status>
+      <ojp:OJPLocationInformationDelivery>
+        <siri:ResponseTimestamp>2023-03-12T12:20:17Z</siri:ResponseTimestamp>
+        <siri:Status>true</siri:Status>
+        <ojp:CalcTime>248</ojp:CalcTime>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:TopographicPlace>
+              <ojp:TopographicPlaceCode>23026261:27</ojp:TopographicPlaceCode>
+              <ojp:TopographicPlaceName>
+                <ojp:Text xml:lang="de">Zürich</ojp:Text>
+              </ojp:TopographicPlaceName>
+            </ojp:TopographicPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.53224</siri:Longitude>
+              <siri:Latitude>47.38252</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>1</ojp:Probability>
+          <ojp:OriginSystem>Foo</ojp:OriginSystem>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8503000</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.54021</siri:Longitude>
+              <siri:Latitude>47.37818</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>1</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:TopographicPlace>
+              <ojp:TopographicPlaceCode>23026192:1</ojp:TopographicPlaceCode>
+              <ojp:TopographicPlaceName>
+                <ojp:Text xml:lang="de">Egg b. Zürich</ojp:Text>
+              </ojp:TopographicPlaceName>
+            </ojp:TopographicPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Egg b. Zürich (Egg b. Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.69123</siri:Longitude>
+              <siri:Latitude>47.29962</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.963</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8591442</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Zoo</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Zoo (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.57155</siri:Longitude>
+              <siri:Latitude>47.38157</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.963</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8591824</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Binz</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Binz (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.51832</siri:Longitude>
+              <siri:Latitude>47.36297</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.958999991</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8591427</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Werd</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Werd (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.52684</siri:Longitude>
+              <siri:Latitude>47.37232</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.958999991</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8503051</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich Binz</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich Binz (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.51829</siri:Longitude>
+              <siri:Latitude>47.36277</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.958999991</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8503010</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich Enge</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich Enge (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.53082</siri:Longitude>
+              <siri:Latitude>47.36410</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.958999991</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8591423</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Wartau</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Wartau (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.49163</siri:Longitude>
+              <siri:Latitude>47.40277</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8591315</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Rehalp</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Rehalp (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.58298</siri:Longitude>
+              <siri:Latitude>47.35103</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8591303</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Platte</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Platte (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.55264</siri:Longitude>
+              <siri:Latitude>47.37501</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8591268</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Manegg</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Manegg (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.52035</siri:Longitude>
+              <siri:Latitude>47.33697</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8591049</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Auzelg</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Auzelg (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.56884</siri:Longitude>
+              <siri:Latitude>47.41709</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8503093</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich Manegg</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich Manegg (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.51975</siri:Longitude>
+              <siri:Latitude>47.33801</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8503090</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich Selnau</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich Selnau (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.53172</siri:Longitude>
+              <siri:Latitude>47.37224</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8503086</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich Brunau</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich Brunau (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.52623</siri:Longitude>
+              <siri:Latitude>47.35164</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8503084</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich, Dolder</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich, Dolder (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.57453</siri:Longitude>
+              <siri:Latitude>47.37320</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+        <ojp:Location>
+          <ojp:Location>
+            <ojp:StopPlace>
+              <ojp:StopPlaceRef>8503069</ojp:StopPlaceRef>
+              <ojp:StopPlaceName>
+                <ojp:Text xml:lang="de">Zürich Rehalp</ojp:Text>
+              </ojp:StopPlaceName>
+              <ojp:TopographicPlaceRef>23026261:27</ojp:TopographicPlaceRef>
+            </ojp:StopPlace>
+            <ojp:LocationName>
+              <ojp:Text xml:lang="de">Zürich Rehalp (Zürich)</ojp:Text>
+            </ojp:LocationName>
+            <ojp:GeoPosition>
+              <siri:Longitude>8.58320</siri:Longitude>
+              <siri:Latitude>47.35101</siri:Latitude>
+            </ojp:GeoPosition>
+          </ojp:Location>
+          <ojp:Complete>true</ojp:Complete>
+          <ojp:Probability>0.953000009</ojp:Probability>
+        </ojp:Location>
+      </ojp:OJPLocationInformationDelivery>
+    </siri:ServiceDelivery>
+  </siri:OJPResponse>
+</siri:OJP>
