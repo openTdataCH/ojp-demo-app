@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OJP xmlns="http://www.siri.org.uk/siri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:ojp="http://www.vdv.de/ojp"
+  xsi:schemaLocation="http://www.siri.org.uk/siri ../ojp-xsd-v1.0/OJP.xsd" version="1.0">
+  <OJPRequest>
+    <ServiceRequest>
+      <RequestorRef>OJP SDK v1.0</RequestorRef>
+      <RequestTimestamp>2023-04-26T15:48:22.765Z</RequestTimestamp>
+      <ojp:OJPTripRequest>
+        <RequestTimestamp>2023-04-26T15:48:22.765Z</RequestTimestamp>
+        <ojp:Origin>
+          <ojp:PlaceRef>
+            <StopPointRef>8507180</StopPointRef>
+            <ojp:LocationName>
+              <ojp:Text>Thun, Bahnhof</ojp:Text>
+            </ojp:LocationName>
+          </ojp:PlaceRef>
+          <ojp:DepArrTime>2023-04-26T15:47:30.302Z</ojp:DepArrTime>
+        </ojp:Origin>
+        <ojp:Destination>
+          <ojp:PlaceRef>
+            <ojp:GeoPosition>
+              <Longitude>7.60008</Longitude>
+              <Latitude>46.72714</Latitude>
+            </ojp:GeoPosition>
+            <ojp:LocationName>
+              <ojp:Text>46.727140,7.600080</ojp:Text>
+            </ojp:LocationName>
+          </ojp:PlaceRef>
+        </ojp:Destination>
+        <ojp:Params>
+          <ojp:NumberOfResults>5</ojp:NumberOfResults>
+          <ojp:IncludeTrackSections>true</ojp:IncludeTrackSections>
+          <ojp:IncludeLegProjection>true</ojp:IncludeLegProjection>
+          <ojp:IncludeTurnDescription>true</ojp:IncludeTurnDescription>
+          <ojp:IncludeIntermediateStops>true</ojp:IncludeIntermediateStops>
+          <ojp:ItModesToCover>taxi</ojp:ItModesToCover>
+        </ojp:Params>
+      </ojp:OJPTripRequest>
+    </ServiceRequest>
+  </OJPRequest>
+</OJP>
